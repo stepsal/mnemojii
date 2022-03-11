@@ -6,7 +6,9 @@ Emoji Mnemonics\Seed Generator written in Python 3.8
 
 
 # Dislaimer 
-Use at own risk. Only a fraction (2.5%) of the 2048 words have an emoji mapping. This means there is a higher chance of a succesful brute force attack.
+Use at own risk. 
+Only a fraction (2.5%) of the 2048 words have an emoji mapping. 
+This means there is a higher chance of a succesful brute force attack.
 
 
 # Background
