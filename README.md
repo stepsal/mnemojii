@@ -1,0 +1,2 @@
+# mnemojii
+Emoji Mnemonics
