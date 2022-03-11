@@ -24,5 +24,4 @@ Use at own risk. Only a fraction (2.5%) of the 2048 words have an emoji mapping.
 
 
 # Uses
-- Cute backup phrases for very young or very old people.
-- Gas less transactions via IM :P
+- Cute "Funds not as Safu" backup phrases 
