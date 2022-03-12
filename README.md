@@ -12,7 +12,7 @@ This means there is a higher chance of a succesful brute force attack.
 
 
 # Background
-- Experiments on trading security for useability in mnemonic seed phrases.
+- I just wanted to carry out some experiments, trading security for useability with seed phrases.
 
 
 # Randomness
